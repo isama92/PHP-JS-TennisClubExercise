@@ -1,4 +1,3 @@
 # TennisClubExercise
 WIP:
-  Input validation
-  Error management
+  Input validation, Error management
